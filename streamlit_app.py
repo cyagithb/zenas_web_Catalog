@@ -1,4 +1,4 @@
 import streamlit
 
-streamlit.title ('Zena's Catalog')
+streamlit.title ('Zena''s Catalog')
                  
